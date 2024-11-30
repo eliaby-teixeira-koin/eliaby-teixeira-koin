@@ -160,13 +160,13 @@ Hi, I'm Eliaby Teixeira. Thanks for stopping here!
 ### 📊 Statistics
 
 <p>
-  <!--<img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="margin-right: 4px;" 
     src="https://github-readme-stats.vercel.app/api?username=eliaby-teixeira-koin&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />-->
+  />
   <img 
     align="left" 
     alt="GitHub Stats" 
